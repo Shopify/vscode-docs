@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 <p align="center">
   <img alt="vscode logo" src="images/logo-stable.png" width="100px" />
   <h1 align="center">Visual Studio Code Documentation</h1>
